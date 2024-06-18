@@ -5,4 +5,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandun21&label=Profile%20views&color=0e75b6&style=flat" alt="sandun21" /> </p>
 
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sandun21&">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sandun21&theme=black-ice	">
